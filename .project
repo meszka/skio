@@ -16,14 +16,14 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>ECJ</name>
-			<type>2</type>
-			<location>/Users/marcin/Documents/Research/Software/ECJ</location>
-		</link>
-		<link>
 			<name>cecj</name>
 			<type>2</type>
-			<location>/Users/marcin/Documents/Research/Software/cecj/src</location>
+			<location>/home/meszka/code/cecj/src</location>
+		</link>
+		<link>
+			<name>ecj</name>
+			<type>2</type>
+			<location>/home/meszka/code/ecj</location>
 		</link>
 	</linkedResources>
 </projectDescription>
